@@ -1,6 +1,6 @@
 # Ingenieria_Software
 
-**IngenieriaSoftware**
+**INGENIERIA SOFTWARE**
 
 **5.- OBJETIVO GENERAL DEL CURSO**
 
